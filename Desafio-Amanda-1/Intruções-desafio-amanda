@@ -1,0 +1,18 @@
+// Desafios
+
+Programa de boas-vindas ao usuário.
+
+Objetivo
+Solicitar o nome do usuário e exibir uma mensagem personalizada de boas-vindas.
+
+Descrição
+O programa deverá:
+
+Solicitar que o usuário digite o seu nome.
+
+Armazenar o nome informado.
+
+Exibir a mensagem no formato:
+
+"Olá {nome}, seja bem-vindo(a)!"
+Substituindo {nome} pelo nome digitado pelo usuário.

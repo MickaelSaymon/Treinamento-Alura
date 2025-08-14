@@ -7,8 +7,7 @@
 // Sou **Pré-Oficial de Eletricista** explorando o mundo do código — e aqui está minha primeira experiência!
 
 // Estrutura
-- `aula-alura.js` → Código original feito na aula.
-- `meu-codigo.js` → Minha versão personalizada, com mensagens e lógica diferentes (nem tanto).
+- `Desafio-alura-13-08.js` → Minha versão criada, com mensagens e lógica na minha cabeça.
 
 // O que aprendi
 

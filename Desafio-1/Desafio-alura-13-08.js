@@ -1,16 +1,16 @@
 // Código original da aula na Alura
 
-alert('Bem-vindo ao nosso site!');
+    alert('Bem-vindo ao nosso site!');
 
 let nome = "Lua";
 let idade = 25;
 let numeroDeVendas = 50;
 let saldoDisponivel = 1000;
 
-alert('Erro! Preencha todos os campos');
+    alert('Erro! Preencha todos os campos');
 
 let mensagemDeErro = 'Erro! Preencha todos os campos';
-alert(mensagemDeErro);
+    alert(mensagemDeErro);
 
 // Solicitando dados do usuário
 nome = prompt('Digite o seu nome');
